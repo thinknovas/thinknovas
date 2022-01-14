@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thinknovas
-- 👀 I’m interested in Java, Ruby, JRuby and Blender 
+- 👀 I’m interested in Java, Ruby, Ruby on Rails, JRuby and Blender 
 - 🌱 I’m currently learning all
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me agwirobert@gmail.com
